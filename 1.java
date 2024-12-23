@@ -14,5 +14,10 @@ public class palimdrome{
         }else{
             System.out.println("String is not palindrome");
         }
+
+
+        kbvhchjklnjgcuyi
+        bjxhcjgkl
+        jhgfxgcvjhbk
     }
 }

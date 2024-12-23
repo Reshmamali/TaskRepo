@@ -1,6 +1,8 @@
 public class palimdrome{
     public static void main(String []args){
-        String a = "Reshma";
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter a string -> ");
+        String str = sc.nextInt();
         String reverse = "";
 
         for(int i = 1; i<=a.length()-1; i++){
