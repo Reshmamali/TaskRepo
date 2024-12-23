@@ -1,17 +1,8 @@
-public class palimdrome{
-    public static void main(String []args){
-        String a = "Reshma";
-        String reverse = "";
-
-        for(int i = 1; i<=a.length()-1; i++){
-            reverse = reverse + a.charAt(i);
-        }
-        System.out.print("Reverse string is" + reverse);
-
-        if(reverse.equals(a)){
-            System.out.println("String is palindrome");
-        }else{
-            System.out.println("String is not palindrome");
-        }
-    }
-}
+<<<<<<<<<<<<<<<<<<HEAD
+1111133333333333
+'cpdsvuigchga
+22222222222222222
+>>>>>>>>>>>>>>>HEAD
+333333333333333
+'cpdsvuigchga
+22222222222222222
